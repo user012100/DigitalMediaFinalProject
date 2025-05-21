@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+    background-color:black;
+    margin:30px
+}
+
+header{
+    color:white;
+}
+.first{
+    font-family: nippori, sans serif;
+    color:white;
+    font-size: 250%;
+    text-align: center;
+    margin-top:20px;
+}
+.second{
+    font-family:oswald , sans serif;
+    color:white;
+    font-size: 150%;
+    text-align:center;
+}
+h1,h2{
+    text-align:center;
+    margin-top:60px;
+    color:white;
+    font-family: oswald , sans serif;
+}
+h3{
+    text-align:center;
+    margin-top:70px;
+    margin-bottom:20px;
+    margin-right:100px;
+    margin-left:100px;
+    color:white;
+    font-size:145%;
+    font-family: anonymous-pro, monospace;
+}
+
