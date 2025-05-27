@@ -185,7 +185,7 @@ a.home:hover {
 }
 
 a.home:active {
-    color: white;
+    color: blue;
     text-decoration: none;
 }
 
