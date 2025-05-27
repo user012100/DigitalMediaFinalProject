@@ -166,7 +166,9 @@ footer {
     margin-right: auto;
     width: 100%;
 }
-
+a {
+    text-decoration: none;
+}
 a.home:link {
     color: white;
     text-decoration: none;
